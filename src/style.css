@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+body{
+    font-family: 'Inter';
+}
+.nav{
+    position: relative;
+    width: 550px;
+    height: 55px;
+    background: #F55A5A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav_text{
+    width: 109px;
+    margin-left: 7px;
+    height: 16px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.4608px;
+    line-height: 18px;
+    letter-spacing: -0.075em;
+    color: #FFFFFF;
+}
+.card{
+    display: flex;
+    width: 470px;
+    height: 168px;
+    align-items: center;
+    margin: 40px;
+}
+.card_text{
+    width: 326px;
+    height: 144px;
+    margin-left: 19px;
+}
+.cardRow1{
+    display: flex;
+    align-items: center;
+}
+.cardRow1>img{
+    margin-right: 4px;
+}
+.text1{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+    color: #2B283A;
+    margin-right: 12px;
+}
+.text2{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    text-decoration-line: underline;
+    color: #918E9B;
+}
+.cardRow2{
+    width: 326px;
+    height: 33px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #2B283A;
+}
+.cardRow3{
+    margin-top: 14px;
+    margin-bottom: 9px;
+    width: 319px;
+    height: 11px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.24px;
+    line-height: 12px;
+
+    color: #2B283A;
+}
+.cardRow4{
+    width: 326px;
+    height: 60px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #2B283A;
+}
